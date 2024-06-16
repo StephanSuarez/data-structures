@@ -1,0 +1,13 @@
+Patrones de diseño
+
+Estructuras de datos y algoritmos
+	Tabla hash
+	Lista
+	Pila
+	Cola
+	Lista enlazada
+	Árbol
+	Árbol binario
+	Arbol binerio de busqueda
+	Grafos
+	Heap
